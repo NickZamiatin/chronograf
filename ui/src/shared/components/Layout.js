@@ -79,6 +79,7 @@ const Layout = (
   <LayoutCell
     cell={cell}
     cellData={cellData}
+    templates={templates}
     isEditable={isEditable}
     onEditCell={onEditCell}
     onCloneCell={onCloneCell}
